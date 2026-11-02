@@ -11,7 +11,6 @@ Open `index.html` in a modern browser, then select **Start game**.
 - **Arrow keys** or **WASD** to steer
 - On phones, swipe across the board or use the directional buttons
 - **Space** or **Pause** to pause and resume
-- On touch screens, use the directional buttons below the board
 - Use the difficulty menu to choose Easy, Normal, or Hard
 - Use **Sound on/off** to toggle game sounds
 
@@ -20,6 +19,7 @@ Eat the glowing food to gain 10 points. Catch the occasional golden star before 
 ## Files
 
 - `index.html` — the complete game, including its styles and game logic
+- `favicon.svg` — the neon snake icon shown in the browser tab
 - `README.md` — this guide
 
 ## Run locally
